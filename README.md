@@ -33,6 +33,42 @@
 
 </details>
 
+### Special Buildings Submod (Treasure Hunter Update v1.5)
+* [Link](http://www.mediafire.com/file/r32t0bph728gqap/AGOT_Special_Buildings_Submod_v1.5.zip/file)
+
+<details>
+
+<summary>This mod adds</summary>
+
+- bakery + lemoncake decision
+- brewery + upgrade if you find master brewer
+- hanging gardens
+- apple + lemon tree orchard if you find seeds
+- crazy alchemist workshop if you find the alchemist + decision to create silent monsters (like "Robert Strong")
+- glass garden
+- fighting arena for essos
+- stonemason + events for building modificators
+- look for minerals decision + events + mines ( iron, copper, gold, silver, dragonglass, probability depending on your region ) + upgrades
+- library + steal book event
+- dragon tower + dragon dream event + valyrian religion convert event
+- duel academy + better fighter events
+- winesink
+- secret passage + secret tunnels enables a big "strolling around the city" event chain at peacetime:
+you can buy food, elixirs, weapons, books, help foreign traders (investment event based on capital location ), meet lovers, pets or get abducted by a crazy alchemist...
+- weird butcher + cannibal events
+- naval shipyard
+- night watchman
+- barber surgeon + event
+- theatre
+- tailor guild
+- treasure hunter inn + 7 artifacts and 3 quests
+- reliquary shrine
+- candle maker
+- gambling den
+- sacrificial altar + event for black goat religion to sacrifice child to win losing war
+
+</details>
+
 ### Trade Routes Revised (MB version)
 * [Link](drive.google.com/file/d/1_QivBXhvGpmF5OSBTLS-1MErYyTvAaxh/view?usp=sharing)
 <details>
@@ -62,6 +98,7 @@
 > [!NOTE]
 > I'm not tested the mod yet, might conflict with PO.
 > Use both of Main and Compatch.
+
 ### Larger Council Tab (Optional read the note)
 * [Link](https://www.dropbox.com/scl/fi/ghsiphzst0eywe4sm4ui4/agot-lct_14.rar?dl=0&e=1&rlkey=y8e6fmzhfxjdd4q70c8ntnjlo)
 > [!NOTE]
