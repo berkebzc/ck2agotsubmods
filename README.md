@@ -7,7 +7,7 @@
 > [!CAUTION]
 > You do not need CO its included on CBBT. Just use this.
 > * PO Version: CBBT (PO + CO)
-### Portrait Overhaul
+### Portrait Overhaul (PO)
 * [Link](https://agotcitadel.boards.net/thread/4478/agot-portrait-overhaul-updated-2023)
 > [!IMPORTANT]
 > Just use these two.
@@ -64,7 +64,7 @@
 > I'm not tested the mod yet, might conflict with PO.
 > Use both of Main and Compatch.
 ### Larger Council Tab (Optional read the note)
-[Link](https://www.dropbox.com/scl/fi/ghsiphzst0eywe4sm4ui4/agot-lct_14.rar?dl=0&e=1&rlkey=y8e6fmzhfxjdd4q70c8ntnjlo)
+* [Link](https://www.dropbox.com/scl/fi/ghsiphzst0eywe4sm4ui4/agot-lct_14.rar?dl=0&e=1&rlkey=y8e6fmzhfxjdd4q70c8ntnjlo)
 > [!NOTE]
 > This is optional mod and not suitable for display resolutions with a higth lower than 900.
 <details>
