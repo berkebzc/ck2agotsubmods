@@ -61,3 +61,16 @@
 > [!NOTE]
 > I'm not tested the mod yet, might conflict with PO.
 > Use both of Main and Compatch.
+### Larger Council Tab (Optional read the note)
+[Link](https://www.dropbox.com/scl/fi/ghsiphzst0eywe4sm4ui4/agot-lct_14.rar?dl=0&e=1&rlkey=y8e6fmzhfxjdd4q70c8ntnjlo)
+> [!NOTE]
+> This is optional mod and not suitable for display resolutions with a higth lower than 900.
+<details>
+
+<summary>Images</summary>
+
+![1](http://www.mediafire.com/convkey/8281/ha1d7bcp9r1h57wzg.jpg)
+![2](http://www.mediafire.com/convkey/6c73/yfqb685y8jpacwwzg.jpg)
+![3](http://www.mediafire.com/convkey/c510/mhxpqxk6cflb7tbzg.jpg)
+
+</details>
