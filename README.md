@@ -1,7 +1,6 @@
 # CK2 AGOT Submods (More Bloodlines 2.2)
-### More Bloodlines
+### More Bloodlines (MB)
 * [Link](www.dropbox.com/s/gml2v96qgxxhnuh/AGOT%20More%20Bloodlines%202.2%20-%20Extract%20to%20Mods%20Folder.7z?dl=0)
-* More Bloodlines 2.2
 ### Cripples, Bastards, and Broken Things (CBBT)
 * [Link](https://agotcitadel.boards.net/thread/4323/agot-cripples-broken-1-4)
 > [!CAUTION]
