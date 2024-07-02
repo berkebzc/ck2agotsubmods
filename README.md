@@ -2,9 +2,11 @@
 ### More Bloodlines
 [Link](www.dropbox.com/s/gml2v96qgxxhnuh/AGOT%20More%20Bloodlines%202.2%20-%20Extract%20to%20Mods%20Folder.7z?dl=0)
 * More Bloodlines 2.2
-### CBBT
+### Cripples, Bastards, and Broken Things (CBBT)
 [Link](https://agotcitadel.boards.net/thread/4323/agot-cripples-broken-1-4)
 * PO Version: CBBT (PO + CO)
+> [!IMPORTANT]
+> You do not need CO its included on CBBT.
 ### Portrait Overhaul
 [Link](https://agotcitadel.boards.net/thread/4478/agot-portrait-overhaul-updated-2023)
 * AGOT Portrait Overhaul - Base PO
