@@ -31,3 +31,15 @@
 * Pentoshi Bazaars owned by the Spicers to the city of Pentos.
 
 </details>
+
+### Trade Routes Revised (MB version)
+[Link](drive.google.com/file/d/1_QivBXhvGpmF5OSBTLS-1MErYyTvAaxh/view?usp=sharing)
+<details>
+
+<summary>Images</summary>
+
+![Westeros map](https://i.imgur.com/QmpQSzT.jpg)
+![Detail south](https://i.imgur.com/WEJ4VXl.jpg)
+![Detail north](https://i.imgur.com/260Q6Nh.jpg)
+
+</details>
