@@ -79,4 +79,4 @@
 ### Customize Apperance (Optional)
 * [Link](https://www.dropbox.com/scl/fi/lwa0rcudl31gl6a7387g6/AGOT-Customize-Apperance.zip?rlkey=hlyypbc5eziaaiziaiwbo56ed&e=1&dl=0)
 > [!WARNING]
-> Some historical characters have fixed dna so you cant chance their hairs and beards.
+> Some historical characters have fixed dna so you can't change their hairs and beards.
