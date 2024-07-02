@@ -59,5 +59,5 @@
 
 [CBBT Compatch](https://www.dropbox.com/scl/fi/kighk5my8l6vv6jlipfnf/AGOT-TDP-CBBT-Compatch.zip?rlkey=hh4c437hvsvl3xmuxwgi7z5ge&e=1&st=5bk2uyq7&dl=0)
 > [!NOTE]
-> I'm not tested yet this mod with other mods but should be no problem.
+> I'm not tested the mod yet, might conflict with PO.
 > Use both of Main and Compatch.
