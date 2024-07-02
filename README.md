@@ -1,18 +1,20 @@
 # CK2 AGOT Submods (More Bloodlines 2.2)
 ### More Bloodlines
-[Link](www.dropbox.com/s/gml2v96qgxxhnuh/AGOT%20More%20Bloodlines%202.2%20-%20Extract%20to%20Mods%20Folder.7z?dl=0)
+* [Link](www.dropbox.com/s/gml2v96qgxxhnuh/AGOT%20More%20Bloodlines%202.2%20-%20Extract%20to%20Mods%20Folder.7z?dl=0)
 * More Bloodlines 2.2
 ### Cripples, Bastards, and Broken Things (CBBT)
-[Link](https://agotcitadel.boards.net/thread/4323/agot-cripples-broken-1-4)
-* PO Version: CBBT (PO + CO)
+* [Link](https://agotcitadel.boards.net/thread/4323/agot-cripples-broken-1-4)
 > [!CAUTION]
-> You do not need CO its included on CBBT.
+> You do not need CO its included on CBBT. Just use this.
+> * PO Version: CBBT (PO + CO)
 ### Portrait Overhaul
-[Link](https://agotcitadel.boards.net/thread/4478/agot-portrait-overhaul-updated-2023)
-* AGOT Portrait Overhaul - Base PO
-* AGOT Portrait Overhaul - Enhanced Child GFX
+* [Link](https://agotcitadel.boards.net/thread/4478/agot-portrait-overhaul-updated-2023)
+> [!IMPORTANT]
+> Just use these two.
+> * AGOT Portrait Overhaul - Base PO
+> * AGOT Portrait Overhaul - Enhanced Child GFX
 ### More Economic Buildings (Updated 03/24/2024)
-[Link](https://agotcitadel.boards.net/thread/4593/agot-more-economic-buildings-updated)
+* [Link](https://agotcitadel.boards.net/thread/4593/agot-more-economic-buildings-updated)
 <details>
 
 <summary>This mod adds</summary>
@@ -33,7 +35,7 @@
 </details>
 
 ### Trade Routes Revised (MB version)
-[Link](drive.google.com/file/d/1_QivBXhvGpmF5OSBTLS-1MErYyTvAaxh/view?usp=sharing)
+* [Link](drive.google.com/file/d/1_QivBXhvGpmF5OSBTLS-1MErYyTvAaxh/view?usp=sharing)
 <details>
 
 <summary>Images</summary>
@@ -45,19 +47,19 @@
 </details>
 
 ### Reformations
-[Main Link](https://www.dropbox.com/scl/fo/cvu1fghmcd2nixthlm5n8/ACe6AaSjw-fB6kCYvD3U6rQ?dl=0&e=1&preview=AGOT+Reformations.zip&rlkey=cgqlgitnl1qg4cihdvjl8mgeg)
+* [Main Link](https://www.dropbox.com/scl/fo/cvu1fghmcd2nixthlm5n8/ACe6AaSjw-fB6kCYvD3U6rQ?dl=0&e=1&preview=AGOT+Reformations.zip&rlkey=cgqlgitnl1qg4cihdvjl8mgeg)
 
-[Compatibility Patch for AGOT More Bloodlines](https://www.dropbox.com/scl/fi/ajzpyx0jwfig6y4ashnyl/AGOT-More-Bloodlines-Reformations-Patch.zip?rlkey=r50jekvkjz4jvqpbilaa2fh11&e=1&dl=0)
+* [Compatibility Patch for AGOT More Bloodlines](https://www.dropbox.com/scl/fi/ajzpyx0jwfig6y4ashnyl/AGOT-More-Bloodlines-Reformations-Patch.zip?rlkey=r50jekvkjz4jvqpbilaa2fh11&e=1&dl=0)
 > [!CAUTION]
 > You need both Main and Compatibility Patch to work properly.
 ### Lowborn Purge
-[Link](https://agotcitadel.boards.net/thread/4269/agot-lowborn-purge)
+* [Link](https://agotcitadel.boards.net/thread/4269/agot-lowborn-purge)
 > [!IMPORTANT]
 > Highly recommended for long savegame lifespan.
 ### The Dragon's Peace (MB) 2.1.2 
-[Main Link(MB)](https://www.dropbox.com/scl/fi/2dvg17fzonk9gc1l6y1cz/AGOT-The-Dragon-s-Peace-2.1-MB.zip?rlkey=2bx2chwess0frty12lusgc5bb&e=1&st=5v9pqlvu&dl=0)
+* [Main Link(MB)](https://www.dropbox.com/scl/fi/2dvg17fzonk9gc1l6y1cz/AGOT-The-Dragon-s-Peace-2.1-MB.zip?rlkey=2bx2chwess0frty12lusgc5bb&e=1&st=5v9pqlvu&dl=0)
 
-[CBBT Compatch](https://www.dropbox.com/scl/fi/kighk5my8l6vv6jlipfnf/AGOT-TDP-CBBT-Compatch.zip?rlkey=hh4c437hvsvl3xmuxwgi7z5ge&e=1&st=5bk2uyq7&dl=0)
+* [CBBT Compatch](https://www.dropbox.com/scl/fi/kighk5my8l6vv6jlipfnf/AGOT-TDP-CBBT-Compatch.zip?rlkey=hh4c437hvsvl3xmuxwgi7z5ge&e=1&st=5bk2uyq7&dl=0)
 > [!NOTE]
 > I'm not tested the mod yet, might conflict with PO.
 > Use both of Main and Compatch.
