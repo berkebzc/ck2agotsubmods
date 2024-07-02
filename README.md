@@ -95,7 +95,7 @@ you can buy food, elixirs, weapons, books, help foreign traders (investment even
 * [Main Link(MB)](https://www.dropbox.com/scl/fi/2dvg17fzonk9gc1l6y1cz/AGOT-The-Dragon-s-Peace-2.1-MB.zip?rlkey=2bx2chwess0frty12lusgc5bb&e=1&st=5v9pqlvu&dl=0)
 
 * [CBBT Compatch](https://www.dropbox.com/scl/fi/kighk5my8l6vv6jlipfnf/AGOT-TDP-CBBT-Compatch.zip?rlkey=hh4c437hvsvl3xmuxwgi7z5ge&e=1&st=5bk2uyq7&dl=0)
-> [!NOTE]
+> [!IMPORTANT]
 > Use both of Main and Compatch.
 
 ### Larger Council Tab (Optional read the note)
