@@ -54,3 +54,10 @@
 [Link](https://agotcitadel.boards.net/thread/4269/agot-lowborn-purge)
 > [!IMPORTANT]
 > Highly recommended for long savegame lifespan.
+### The Dragon's Peace (MB) 2.1.2 
+[Main Link(MB)](https://www.dropbox.com/scl/fi/2dvg17fzonk9gc1l6y1cz/AGOT-The-Dragon-s-Peace-2.1-MB.zip?rlkey=2bx2chwess0frty12lusgc5bb&e=1&st=5v9pqlvu&dl=0)
+
+[CBBT Compatch](https://www.dropbox.com/scl/fi/kighk5my8l6vv6jlipfnf/AGOT-TDP-CBBT-Compatch.zip?rlkey=hh4c437hvsvl3xmuxwgi7z5ge&e=1&st=5bk2uyq7&dl=0)
+> [!NOTE]
+> I'm not tested yet this mod with other mods but should be no problem.
+> Use both of Main and Compatch.
