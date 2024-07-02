@@ -13,3 +13,21 @@
 * AGOT Portrait Overhaul - Enhanced Child GFX
 ### More Economic Buildings (Updated 03/24/2024)
 [Link](https://agotcitadel.boards.net/thread/4593/agot-more-economic-buildings-updated)
+<details>
+
+<summary>This mod adds</summary>
+
+* Olive Orchards in Meereen.
+* Qartheen Markets in Qarth.
+* Whaler Ports in Ibben.
+* Arbor Vineyards in the Arbor. This building is specific to castles in the Arbor as towns already have wineries, and because the Arbor shipyards do not add any tax income.
+* Grand Markets in Yi Ti's major cities, as they are described as market towns. Useful if you enjoy playing in the Far East.
+* Myrish Guilds and Tyroshi Mercantiles in Myr and Tyrosh. As these provinces are republics, it made sense to add them only to the city holdings.
+* Rainwood Forests in the Rainwood duchy region, as this region is famous for its lumber and more.
+* Jonquil's Pool in Maidenpool. This building gives little income, but makes up for it by adding fertility and health boosts to its holder.
+* Oldtown Harbors specific to the Hightower and the city of Oldtown itself.
+* the Old Mint and Merman Guilds to White Harbor. Both are specific to the castle and city holdings.
+* Lannisport Guilds noted for their goldworks to Lannisport.
+* Pentoshi Bazaars owned by the Spicers to the city of Pentos.
+
+</details>
