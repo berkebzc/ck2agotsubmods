@@ -5,7 +5,7 @@
 ### Cripples, Bastards, and Broken Things (CBBT)
 [Link](https://agotcitadel.boards.net/thread/4323/agot-cripples-broken-1-4)
 * PO Version: CBBT (PO + CO)
-> [!IMPORTANT]
+> [!CAUTION]
 > You do not need CO its included on CBBT.
 ### Portrait Overhaul
 [Link](https://agotcitadel.boards.net/thread/4478/agot-portrait-overhaul-updated-2023)
@@ -43,3 +43,14 @@
 ![Detail north](https://i.imgur.com/260Q6Nh.jpg)
 
 </details>
+
+### Reformations
+[Main Link](https://www.dropbox.com/scl/fo/cvu1fghmcd2nixthlm5n8/ACe6AaSjw-fB6kCYvD3U6rQ?dl=0&e=1&preview=AGOT+Reformations.zip&rlkey=cgqlgitnl1qg4cihdvjl8mgeg)
+
+[Compatibility Patch for AGOT More Bloodlines](https://www.dropbox.com/scl/fi/ajzpyx0jwfig6y4ashnyl/AGOT-More-Bloodlines-Reformations-Patch.zip?rlkey=r50jekvkjz4jvqpbilaa2fh11&e=1&dl=0)
+> [!CAUTION]
+> You need both Main and Compatibility Patch to work properly.
+### Lowborn Purge
+[Link](https://agotcitadel.boards.net/thread/4269/agot-lowborn-purge)
+> [!IMPORTANT]
+> Highly recommended for long savegame lifespan.
